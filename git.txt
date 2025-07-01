@@ -11,11 +11,7 @@ Trial GitHub Advanced Security
 
 Secure your organization
 
-Secret scanning
 
-Introduction
-
-Enable features
 
 Manage alerts
 
